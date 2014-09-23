@@ -1,3 +1,5 @@
 #Team members
-
-List your team members here. Who is in your team?
+1.Mawande Mnukwa
+2.Sandiso Gwantshu
+3.Denver Daniels
+4.Lwazi
